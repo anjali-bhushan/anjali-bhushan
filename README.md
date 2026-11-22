@@ -28,8 +28,8 @@ I spent 6+ years in healthcare operations, managing procurement, inventory, staf
 ## 📜 Certifications
 BCG Strategy Consulting · KPMG Lean Six Sigma Green Belt · Google Project Management · Google Analytics · IBM AI · Change Management · Design Thinking · SAP HANA development · Azure fundamentals
 
-**Google Cloud labs (Credly):** Build an AI-Powered F1 Analytics Agent · AI-Assisted Data Science with BigQuery · Introduction to Conversational Analytics in BigQuery · [View badges ↗](https://www.credly.com/users/YOUR-CREDLY-ID)
+**Google Cloud labs (Credly):** Build an AI-Powered F1 Analytics Agent · AI-Assisted Data Science with BigQuery · Introduction to Conversational Analytics in BigQuery · [View badges ↗](https://www.credly.com/users/anjali-bhushan.d748fd51/badges)
 
 ---
 
-📫 Connect on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/dr-anjali-bhushan-pgpbl07005/)
